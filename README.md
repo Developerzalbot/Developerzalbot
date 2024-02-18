@@ -1,4 +1,4 @@
-<h1 align="center">welcome - to - website🌹</h1>
+ia<h1 align="center">welcome - to - website🌹</h1>
 
 
 
@@ -301,6 +301,21 @@ class rizal(developer):
       return f"{self.name} an {self.age} y.o self-taught developer and {self.role}"
 
 ```
+
+<div>
+cpp  
+                                    void life(void)
+                                    {
+                                      printf("Hi 👋, I'm Dipankar \n");
+                                      printf("A passionate kernel hacker from India \n");
+                                      char currentlyLearning[] = "openWRT";
+                                      char AskMeAbout[] = "Linux";
+                                      char ReachMeAt[] = "d.pal5050@gmail.com";
+                                      char FunFact[]  = "I don't have a girlfriend 😭";
+                                    }
+
+
+</div>
 
 
 
