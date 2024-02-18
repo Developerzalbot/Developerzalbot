@@ -211,6 +211,12 @@ HTML                     9 repos             ██░░░░░░░░░�
 
 ```
 
+ 
+  <a href="https://leetcode.com/JayantGoel001/" target="_blank">
+    <code><img height="60" width="60" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/WEBP/lc.webp"/></code>
+  </a>
+</p>
+
 
 
 ### 𝚂𝚑𝚘𝚠 𝚜𝚘𝚖𝚎 ❤️ 𝚋𝚢 rizaldev 𝚜𝚘𝚖𝚎 𝚘𝚏 𝚝𝚑𝚎 𝚛𝚎𝚙𝚘𝚜𝚒𝚝𝚘𝚛𝚒𝚎𝚜!
