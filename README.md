@@ -2,13 +2,17 @@
 
 
 
-<h3 align="left">👩🏽‍💻 My personal portfolio</h3>
-
-📝 If you'd like to know more about me, you may check my [Personal Portfolio](https://medium.com/@jadehatanaka): 
 
 <img src="https://github.com/shmjade/shmjade/blob/main/portfolio.gif" alt="Header"  width="600" align="center"/>
 
 
+## Databases and Cloud hosting
+
+<p>
+    <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white"></a>
+    <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku%20-%23430098.svg?logo=heroku&logoColor=white"></a>
+    <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Xampp%20-%23430098.svg?logo=xampp&logoColor=white"></a>
+</p> 
 
 
 
