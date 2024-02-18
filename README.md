@@ -2,7 +2,6 @@
 
 
 
-
 <img src="https://github.com/shmjade/shmjade/blob/main/portfolio.gif" alt="Header"  width="600" align="center"/>
 
 
