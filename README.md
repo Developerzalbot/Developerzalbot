@@ -251,14 +251,14 @@ HTML                     9 repos             ██░░░░░░░░░�
 ------
 
 ```python
-class N3dal(Abdullah):
+class rizal(developer):
    """self-taught developer that love to learn more about Computer-Science and Technologies"""
    
    def __init__(self):
      
-      self.name = "Nedal Abdullah"
-      self.age = 23
-      self.role = "Student"
+      self.name = "m.syifaRizal"
+      self.age = 17
+      self.role = "scool"
 
       self.TOOLS = {
           "ScriptingLanguages" : ("Python", "Bash-Script", "matlab"),
