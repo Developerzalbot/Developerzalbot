@@ -1,334 +1,117 @@
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
+<h1 align="center">welcome - to - website🌹</h1>
+
+
+
 <p align="center">
-    <img src="https://telegra.ph/file/37df69a78afb6e010282d.jpg" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
+    <img src="https://telegra.ph/file/5643869b658e87315a1d6.jpg" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
 </p>
 
-## PENTING
 
-> **Warning**: Jangan Memperjual Belikan Script Ini.
+<h1 align="center">spotify🎧</h1>
+## Spotify Playing 🎧
+[![Spotify](https://novatorem.visualbean.vercel.app/api/spotify)](https://open.spotify.com/user/1112981871)
 
-⌬〡 *ɴᴀᴍᴇ ʙᴏᴛ* : ᴇʟᴀɪɴᴀ ᴀɪ
-⌬〡 *ᴄʀᴇᴀᴛᴏʀ* : rizal developer
-⌬
+
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app)
+[![Run on Repl.it](https://repl.it/badge/github/ImYanXiao/Elaina-MultiDevice)](https://repl.it/github/ImYanXiao/Elaina-MultiDevice)
+
 
 
 <h1 align="center">rizal - developer</h1>
 
 <p align="center">
- <a href="#"><img title="ElainaBOT" src="https://img.shields.io/badge/Whatshapp BOT-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+ <a href="#"><img title="ElainaBOT" src="https://img.shields.io/badge/owner-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="https://github.com/ImYanXiao"><img title="Author" src="https://img.shields.io/badge/AUTHOR-ImYanXiao-green.svg?style=for-the-badge&logo=github"></a>
-
----------
-
-### a little about this bot
-- ✔️ | Simple
-- ✔️ | Menfess
-- ✔️ | AntiCall
-- ✔️ | Nsfw 
-- ✔️ | Sticker 
-- ✔️ | Kerang Ajaib 
-- ✔️ | Quotes
-- ✔️ | Anime 
-- ✔️ | Premium 
-- ✔️ | Tools 
----------
- 
-## ```USER RAILWAY```
-
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app)
-
-## ```USER REPLIT```
-[![Run on Repl.it](https://repl.it/badge/github/ImYanXiao/Elaina-MultiDevice)](https://repl.it/github/ImYanXiao/Elaina-MultiDevice)
-
----------
-## FOR WINDOWS/RDP USER 💻
-
-Install this tool first before running the script
-
-* Download And Install Git [`Click Here`](https://git-scm.com/downloads)
-* Download And Install NodeJS [`Click Here`](https://nodejs.org/en/download)
-* Download And Install FFmpeg [`Click Here`](https://ffmpeg.org/download.html) (**Don't Forget Add FFmpeg to PATH enviroment variables**)
-* Download And Install ImageMagick [`Click Here`](https://imagemagick.org/script/download.php)
-
-----------
-
-## FOR VPS USER
-
-* apt update && apt upgrade -y
-* apt install nodejs imagemagick ffmpeg -y
-* node -v 
-* if the version is still under 17, use this step
-* curl -s https://deb.nodesource.com/setup_19.x | sudo bash
-* apt-get install -y nodejs
-
-----------
-
-```bash
-git clone https://github.com/ImYanXiao/Elaina-MultiDevice
-cd Elaina-MultiDevice
-npm install
-npm update
-```
-
----------
-
-## Run ⏳
-
-```bash
-node .
-```
-
----------
-
-## ```Arguments node . [--options] [<session name>]```
-
-## `--pconly`
-* If that chat not from private bot, bot will ignore
-
-## `--gconly`
-* If that chat not from group, bot will ignore
-
-## `--swonly`
-* If that chat not from status, bot will ignore
-
-## `--prefix <prefixes>`
-* `prefixes` are seperated by each character
-Set prefix
-
-## `--server`
-* Used for [heroku](https://heroku.com/) or scan through website
-
-## `--restrict`
-* Enables restricted plugins (which can lead your number to be **banned** if used too often)
-* Group Administration `add, kick`
-
-## `--img`
-* Enable image inspector through terminal
-
-## `--autoread`
-* If enabled, all incoming messages will be marked as read
-
-## `--nyimak`
-* No bot, just print received messages and add users to database
-
-## `--test`
-* **Development** Testing Mode *
-
-## `--self`
-* **Only Owner & Bot** 
-
----------
-
-## ```How To Customise Message Display```
-```js
-// Syntax
-conn.sendButton(
-      jid, // jid of the user to send the message to
-      text, // text to send
-      foooter, // footer to send
-      buffer, // buffer to send (optional), if you want to send button image, location, etc
-      buttons, // buttons to send, example [['text1', 'id1'], ['text2', 'id2']]
-      quoted, // quoted message to send (optional)
-      options // options to send, example { asLocation: true }
-)
-
-// example 
-conn.sendButton(m.chat, 'Hello world!', '@BochilGaming', null, [
-      ['Hello', 'hello'], ['Bye', 'bye']
-])
-// example button location
-conn.sendButton(m.chat, 'Hello world!', '@BochilGaming', 'https://github.com/BochilGaming', 
-      [['Hello', 'hello'], ['Bye', 'bye']], 
-      null, { asLocation: true }
-)
-```
----------
-
-### 📮 S&K
-1. Not For Sale
-2. Don't forget give star this repo
-3. Don't use this repository wrong!
-4. If you have problem chat me in owner number
-
----------
-
-## ```Thanks to ✨```
-* [`Allah SWT`]
-* [`My parents`]
-* [`All Friends`]
-* [`All Contributors`][![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
-<p align="center">
-    <img src="https://telegra.ph/file/37df69a78afb6e010282d.jpg" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
-</p>
-
-## PENTING
-
-> **Warning**: Jangan Memperjual Belikan Script Ini.
-
-⌬〡 *ɴᴀᴍᴇ ʙᴏᴛ* : ᴇʟᴀɪɴᴀ ᴀɪ
-⌬〡 *ᴄʀᴇᴀᴛᴏʀ* : rizal developer
-⌬
-
-
-<h1 align="center">rizal - developer</h1>
-
-<p align="center">
- <a href="#"><img title="ElainaBOT" src="https://img.shields.io/badge/Whatshapp BOT-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
-</p>
-<p align="center">
-<a href="https://github.com/ImYanXiao"><img title="Author" src="https://img.shields.io/badge/AUTHOR-ImYanXiao-green.svg?style=for-the-badge&logo=github"></a>
-
----------
-
-### a little about this bot
-- ✔️ | Simple
-- ✔️ | Menfess
-- ✔️ | AntiCall
-- ✔️ | Nsfw 
-- ✔️ | Sticker 
-- ✔️ | Kerang Ajaib 
-- ✔️ | Quotes
-- ✔️ | Anime 
-- ✔️ | Premium 
-- ✔️ | Tools 
----------
- 
-## ```USER RAILWAY```
-
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app)
-
-## ```USER REPLIT```
-[![Run on Repl.it](https://repl.it/badge/github/ImYanXiao/Elaina-MultiDevice)](https://repl.it/github/ImYanXiao/Elaina-MultiDevice)
-
----------
-## FOR WINDOWS/RDP USER 💻
-
-Install this tool first before running the script
-
-* Download And Install Git [`Click Here`](https://git-scm.com/downloads)
-* Download And Install NodeJS [`Click Here`](https://nodejs.org/en/download)
-* Download And Install FFmpeg [`Click Here`](https://ffmpeg.org/download.html) (**Don't Forget Add FFmpeg to PATH enviroment variables**)
-* Download And Install ImageMagick [`Click Here`](https://imagemagick.org/script/download.php)
-
-----------
-
-## FOR VPS USER
-
-* apt update && apt upgrade -y
-* apt install nodejs imagemagick ffmpeg -y
-* node -v 
-* if the version is still under 17, use this step
-* curl -s https://deb.nodesource.com/setup_19.x | sudo bash
-* apt-get install -y nodejs
-
-----------
-
-```bash
-git clone https://github.com/ImYanXiao/Elaina-MultiDevice
-cd Elaina-MultiDevice
-npm install
-npm update
-```
-
----------
-
-## Run ⏳
-
-```bash
-node .
-```
-
----------
-
-## ```Arguments node . [--options] [<session name>]```
-
-## `--pconly`
-* If that chat not from private bot, bot will ignore
-
-## `--gconly`
-* If that chat not from group, bot will ignore
-
-## `--swonly`
-* If that chat not from status, bot will ignore
-
-## `--prefix <prefixes>`
-* `prefixes` are seperated by each character
-Set prefix
-
-## `--server`
-* Used for [heroku](https://heroku.com/) or scan through website
-
-## `--restrict`
-* Enables restricted plugins (which can lead your number to be **banned** if used too often)
-* Group Administration `add, kick`
-
-## `--img`
-* Enable image inspector through terminal
-
-## `--autoread`
-* If enabled, all incoming messages will be marked as read
-
-## `--nyimak`
-* No bot, just print received messages and add users to database
-
-## `--test`
-* **Development** Testing Mode *
-
-## `--self`
-* **Only Owner & Bot** 
-
----------
-
-## ```How To Customise Message Display```
-```js
-// Syntax
-conn.sendButton(
-      jid, // jid of the user to send the message to
-      text, // text to send
-      foooter, // footer to send
-      buffer, // buffer to send (optional), if you want to send button image, location, etc
-      buttons, // buttons to send, example [['text1', 'id1'], ['text2', 'id2']]
-      quoted, // quoted message to send (optional)
-      options // options to send, example { asLocation: true }
-)
-
-// example 
-conn.sendButton(m.chat, 'Hello world!', '@BochilGaming', null, [
-      ['Hello', 'hello'], ['Bye', 'bye']
-])
-// example button location
-conn.sendButton(m.chat, 'Hello world!', '@BochilGaming', 'https://github.com/BochilGaming', 
-      [['Hello', 'hello'], ['Bye', 'bye']], 
-      null, { asLocation: true }
-)
-```
----------
-
-### 📮 S&K
-1. Not For Sale
-2. Don't forget give star this repo
-3. Don't use this repository wrong!
-4. If you have problem chat me in owner number
-
----------
-
-## ```Thanks to ✨```
-* [`Allah SWT`]
-* [`My parents`]
-* [`All Friends`]
-* [`All Contributors`]
-* [`All Creator Bot`]
-* [`Whiskeysockets/Baileys`](https://github.com/WhiskeySockets/Baileys)
-* [`Nurutomo`](https://github.com/Nurutomo)
-* [`BochilGaming`](https://github.com/bochilgaming)
-* [`Fokus ID`](https://github.com/Fokusdotid)
-* 
-
-* [`All Creator Bot`]
-* [`Whiskeysockets/Baileys`](https://github.com/WhiskeySockets/Baileys)
-* [`Nurutomo`](https://github.com/Nurutomo)
-* [`BochilGaming`](https://github.com/bochilgaming)
-* [`Fokus ID`](https://github.com/Fokusdotid)
-*
+<a href="https://github.com/Developerzalbot"><img title="Author" src="https://img.shields.io/badge/AUTHOR-Developerzalbot-green.svg?style=for-the-badge&logo=github"></a>
+
+<br>
+
+
+<h1 align="center">contacts - me</h1>
+
+<h1 align="center">WhatsApp - +62 882-1018-0505</h1>
+
+<details>
+<summary>Preview  </summary>
+
+[name](m.syifaRizal')
+
+
+</details>
+<div>
+<a href="https://www.instagram.com/zal_x_u/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href = "mailto: rtzy436@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/jacquelineatae/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
+<a href="https://laravel.com/"><img alt="Laravel" src="https://img.shields.io/badge/Laravel-14354C.svg?logo=laravel&logoColor=black&color=orangered"></a>
+<a href="https://vuejs.org/"><img alt="Vue" src="https://img.shields.io/badge/Vue-14354C.svg?logo=vue.js&logoColor=black&color=purbleblue"></a>
+<a href="https://nodejs.org/en/"><img alt="Nodejs" src="https://img.shields.io/badge/Nodejs-14354C.svg?logo=node.js&logoColor=black&color=darkgreen"></a>
+<a href="https://foalts.org/"><img alt="Foalts" src="https://img.shields.io/badge/Foalts-14354C.svg?logo=typescript&logoColor=white&color=skyblue"></a>
+<a href="https://getbootstrap.com/"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-14354C.svg?logo=bootstrap&logoColor=white&color=mediumpurple"></a>
+<a href="https://flask.palletsprojects.com/en/2.1.x/"><img alt="Flask" src="https://img.shields.io/badge/Flask-14354C.svg?logo=flask&logoColor=black&color=white"></a>
+
+
+
+
+
+<br>
+
+<div align="center" style="margin-bottom:200px">
+ <img width=45% align="center" src="https://github-readme-stats.vercel.app/api?username=jacquelineatae&theme=radical&show_icons=true" />
+ <img width=40% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jacquelineatae&layout=compact&theme=radical" />
+</div>
+
+<p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=adam-pw&label=Profile%20views&color=0e75b6&style=flat"
+    alt="zaldev🟢" /> 
+  </p>
+
+<br>
+
+<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
+
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg"
+      alt="android" width="40" height="40" /> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
+      alt="bootstrap" width="40" height="40" /> </a> <a href="https://www.cprogramming.com/" target="_blank"
+    rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
+      alt="c" width="40" height="40" /> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
+      alt="cplusplus" width="40" height="40" /> </a> <a href="https://www.w3schools.com/css/" target="_blank"
+    rel="noreferrer"> <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3"
+      width="40" height="40" /> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
+      alt="html5" width="40" height="40" /> </a> <a href="https://www.adobe.com/in/products/illustrator.html"
+    target="_blank" rel="noreferrer"> <img
+      src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40"
+      height="40" /> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40"
+      height="40" /> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"
+    rel="noreferrer"> <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+      alt="javascript" width="40" height="40" /> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40" />
+  </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
+      alt="mysql" width="40" height="40" /> </a> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
+      alt="nodejs" width="40" height="40" /> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg"
+      alt="pandas" width="40" height="40" /> </a> <a href="https://www.photoshop.com/en" target="_blank"
+    rel="noreferrer"> <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop"
+      width="40" height="40" /> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"
+      width="40" height="40" /> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
+      alt="react" width="40" height="40" /> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40"
+      height="40" /> </a> </p>
+      
+
+      
