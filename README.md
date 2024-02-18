@@ -2,6 +2,16 @@
 
 
 
+<h3 align="left">👩🏽‍💻 My personal portfolio</h3>
+
+📝 If you'd like to know more about me, you may check my [Personal Portfolio](https://medium.com/@jadehatanaka): 
+
+<img src="https://github.com/shmjade/shmjade/blob/main/portfolio.gif" alt="Header"  width="600" align="center"/>
+
+
+
+
+
 <p align="center">
     <img src="https://telegra.ph/file/5643869b658e87315a1d6.jpg" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
 </p>
