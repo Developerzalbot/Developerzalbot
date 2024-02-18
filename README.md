@@ -8,7 +8,7 @@
 
 
 <h1 align="center">spotify🎧</h1>
-## Spotify Playing 🎧
+
 
 [![Spotify](https://novatorem.visualbean.vercel.app/api/spotify)](https://open.spotify.com/user/1112981871)
 
